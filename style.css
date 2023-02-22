@@ -73,8 +73,10 @@ main {
 
     justify-content: space-between;
     position: relative;
+}
 
-
+.top h2 {
+    display: none;
 }
 
 .hamburger-icon,
